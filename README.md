@@ -6,7 +6,7 @@ Projeto Spotify, imersão front-end Alura 2024
    </div>
 
 ## Descrição do projeto
-  - Projeto de desenvolvimento para a semana de imersão Front-end da Alura com a função de criar a página inicial do Spotyfy. Seu desenvolvimento foi feito durante A semana de aulas realizando também os desafios propostos.
+  - Projeto de desenvolvimento para a semana de imersão Front-end da Alura com a função de criar a página inicial do Spotify. Seu desenvolvimento foi feito durante A semana de aulas e durante a realização dos desafios propostos.
 
 > Técnologias utilizadas: HTML, CSS E JavaScript.
 
